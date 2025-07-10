@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 768">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #f9f4dc;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="0" width="1024" height="768"/>
+    </clipPath>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g class="cls-3">
+      <rect class="cls-2" x="0" width="1024" height="768"/>
+      <image width="1024" height="1536" transform="translate(1337.12 1537.51) rotate(-180) scale(1.47)" xlink:href="../../../../../imagenes/zapas/png/tt_11-1024x1536.jpg.png"/>
+    </g>
+  </g>
+</svg>
